@@ -10,7 +10,7 @@ services:
       - key: PORT
         value: 10000
       - key: FRONTEND_URL
-        value: https://your-frontend.vercel.app
+        value: https://api-testing-tool-frontend-blue.vercel.app/
       - key: SUPABASE_URL
         sync: false
       - key: SUPABASE_ANON_KEY
